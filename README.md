@@ -1,5 +1,5 @@
 # Edit Plist File plugin
-by Haythem OUEDERNI - <a href="https://github.com/haythemOUE">@haythemOUE</a>
+by Mike - <a href="https://github.com/miguelverdasca">@mikeverdasca</a>
 
 # Platforms
 
