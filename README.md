@@ -1,5 +1,5 @@
 # Edit Plist File plugin
-by Mike - <a href="https://github.com/miguelverdasca">@mikeverdasca</a>
+edited by Mike - <a href="https://github.com/miguelverdasca">@mikeverdasca</a>
 
 # Platforms
 
