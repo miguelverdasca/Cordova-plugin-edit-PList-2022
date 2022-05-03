@@ -13,7 +13,7 @@
         This plugin was initially created to avoid iOS 9 problems that prevent opening other apps from your own app because some used plugins aren't updated to take into consideration the new specification for iOS 9.
     </description>
 
-    <author>Haythem OUEDERNI - haythem@nirbyapp.com </author>
+    <author>Haythem & MikeVerdasca </author>
 
     <keywords>cordova,whitelist,ios9,ecosystem:cordova,ordova-ios</keywords>
     
