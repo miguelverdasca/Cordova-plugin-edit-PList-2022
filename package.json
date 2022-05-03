@@ -2,7 +2,7 @@
     "name": "cordova-plugin-edit-plist-file",
     "version": "0.0.3",
     "description": "Plugin allowing to edit *-info.plist file",
-    "author": "Haythem OUEDERNI <haythem@nirbyapp.com>",
+    "author": "Haythem & MikeVerdasca",
     "cordova": {
         "id": "cordova-plugin-edit-plist-file",
         "platforms": [
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/NirbyApp/cordova-plugin-edit-plist-file.git"
+        "url": "https://github.com/miguelverdasca/Cordova-plugin-edit-PList-2022"
     },
     "keywords": [
         "cordova",
